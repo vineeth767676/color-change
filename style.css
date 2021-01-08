@@ -1,0 +1,63 @@
+* {
+    padding: 0;
+    margin: 0;
+    user-select: none;
+    box-sizing: border-box;
+    margin: 1rem;
+    padding: 2rem;
+}
+
+/* body {
+    height: 100vh; 
+    width: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+
+/* box */
+
+div{
+    background-image: url("https://thumbs.dreamstime.com/z/rainbow-acrylic-ink-water-color-explosion-isolated-white-background-colors-55765093.jpg");
+    padding: 3rem;
+    min-height: 100px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10vh
+
+}
+
+/* input color range */
+
+input{
+    font-family: cursive;
+    padding: 1.5rem;
+    height: 2.5rem;
+    width: 18rem;
+    border: none;
+    outline: none;
+    font-size: 1.5rem;
+    font-weight: bold;
+    letter-spacing: 0.3rem;
+    text-align: center;
+    border-radius: 10vh;
+    text-transform: uppercase;
+
+}
+
+button{
+    margin: 0.8rem 0;
+    padding: 0.3rem 1.4rem;
+    outline: none;
+    border: none;
+    font-size: 1.3rem;
+    text-transform: uppercase;
+    letter-spacing: 0.3rem;
+    background-color: wheat;
+    border-radius: 10vh;
+}
+/* button:hover{
+    background-color: cornflowerblue;
+    color: white
+} */
